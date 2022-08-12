@@ -6,6 +6,7 @@ sudo apt-get update
 sudo apt-get install -y vsftpd
 sudo apt-get install -y python
 sudo apt-get install -y python3
+sudo apt-get install -y apache2
 
 # Allow FTP connections
 
