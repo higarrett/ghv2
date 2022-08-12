@@ -77,6 +77,9 @@ sudo chown garrett:garrett /home/garrett
 echo "GHVCTF[e4syFL4G]" > /home/garrett/user.txt
 sudo chown garrett:garrett /home/garrett/user.txt
 
+# Make sticket flag
+echo "GHVCTF[g3t4st1ck3r]" > /home/.flag.txt
+
 # Change 'ubuntu' user password
 sudo echo 'ubuntu:P@$$w0rd_ubuntu' | sudo chpasswd
 
